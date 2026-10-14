@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <rect width="1280" height="640" fill="#0f1419"/>
+  <!-- motif: farm -> broken first mile -> cold store -->
+  <g transform="translate(730,150)" stroke-linecap="round">
+    <line x1="40" y1="170" x2="170" y2="170" stroke="#3a4552" stroke-width="6" stroke-dasharray="4 18"/>
+    <line x1="250" y1="170" x2="380" y2="170" stroke="#4fd1c5" stroke-width="6"/>
+    <circle cx="20" cy="170" r="34" fill="none" stroke="#9ae6b4" stroke-width="6"/>
+    <path d="M8 182 q12 -34 24 0" fill="none" stroke="#9ae6b4" stroke-width="5"/>
+    <rect x="178" y="128" width="64" height="84" rx="8" fill="none" stroke="#f6ad55" stroke-width="6"/>
+    <line x1="194" y1="150" x2="226" y2="150" stroke="#f6ad55" stroke-width="5"/>
+    <line x1="194" y1="170" x2="226" y2="170" stroke="#f6ad55" stroke-width="5"/>
+    <line x1="194" y1="190" x2="226" y2="190" stroke="#f6ad55" stroke-width="5"/>
+    <rect x="388" y="110" width="110" height="120" rx="10" fill="#4fd1c5" fill-opacity="0.15" stroke="#4fd1c5" stroke-width="6"/>
+    <path d="M443 140 v60 M418 155 l50 30 M468 155 l-50 30" stroke="#4fd1c5" stroke-width="5"/>
+    <text x="20" y="260" fill="#9aa5b1" font-family="system-ui, -apple-system, sans-serif" font-size="22" text-anchor="middle">farm</text>
+    <text x="210" y="260" fill="#f6ad55" font-family="system-ui, -apple-system, sans-serif" font-size="22" text-anchor="middle">first mile</text>
+    <text x="443" y="270" fill="#9aa5b1" font-family="system-ui, -apple-system, sans-serif" font-size="22" text-anchor="middle">cold store</text>
+    <text x="210" y="300" fill="#f6ad55" font-family="system-ui, -apple-system, sans-serif" font-size="20" text-anchor="middle">1% built</text>
+    <text x="443" y="300" fill="#4fd1c5" font-family="system-ui, -apple-system, sans-serif" font-size="20" text-anchor="middle">84% built</text>
+  </g>
+  <text x="80" y="110" fill="#4fd1c5" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" letter-spacing="3">CASE STUDY · INDIA · AGRITECH</text>
+  <text font-family="system-ui, -apple-system, sans-serif" font-weight="800" fill="#ffffff" font-size="64">
+    <tspan x="80" y="220">Rent a fridge</tspan>
+    <tspan x="80" y="300">to farmers?</tspan>
+  </text>
+  <text font-family="system-ui, -apple-system, sans-serif" fill="#c3cbd4" font-size="28">
+    <tspan x="80" y="390">India's cold-chain gap isn't storage.</tspan>
+    <tspan x="80" y="430">It's the first mile.</tspan>
+  </text>
+  <rect x="80" y="500" width="60" height="6" rx="3" fill="#4fd1c5"/>
+  <text x="80" y="550" fill="#6b7785" font-family="system-ui, -apple-system, sans-serif" font-size="22">research-lab · 2026-10-13</text>
+</svg>
