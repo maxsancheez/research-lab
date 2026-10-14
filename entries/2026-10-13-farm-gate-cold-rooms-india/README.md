@@ -31,15 +31,15 @@ flowchart LR
     CS --> RC["Ripening chamber<br/>12% built"]
     RC --> M["Market /<br/>retail"]
     F -.->|"what usually happens:<br/>sell same day at any price"| M
-    style PH fill:#fde2e1,stroke:#c0392b
-    style R fill:#fde2e1,stroke:#c0392b
-    style CS fill:#e3f4e8,stroke:#27ae60
+    style PH fill:#fde2e1,stroke:#c0392b,color:#111
+    style R fill:#fde2e1,stroke:#c0392b,color:#111
+    style CS fill:#e3f4e8,stroke:#27ae60,color:#111
 ```
 
 The farm-gate cold room tries to plug the first link. Here is how money moves in the shared, pay-per-crate model:
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph Hub["Farm-gate hub: one 5 t solar cold room"]
       CR["250 crate slots<br/>4–13 °C, solar + battery"]
     end
